@@ -1,4 +1,4 @@
-# Test_Interview
+# iOS Interview 1
 
  The task is to implement the Shop protocol (you can do that in this file directly).
  - No database or any other storage is required, just store data in memory
